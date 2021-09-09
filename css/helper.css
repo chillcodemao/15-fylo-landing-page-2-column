@@ -1,0 +1,136 @@
+:root {
+    font-size: 62.5%;
+}
+
+header, h1, h2, a {
+    font-family: 'Raleway', sans-serif;
+}
+
+p, li {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar li a {
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    color: #07043B;
+    text-decoration: none;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
+    color: #07043B;
+}
+
+.about-fylo-info p {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+    color: #07043B;
+}
+
+.submit-top {
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    color: #FFF;
+    background-color: #2F65F8;
+}
+
+.fylo-features {
+    background-color: #F8F8FE;
+}
+
+.fylo-features-brief h2 {
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    color: #07043B;
+}
+
+#p1, #p2 {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+    color: #615F7E;
+}
+
+.fylo-demo p {
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    color: #3DA08F;
+}
+
+.fylo-testimonial {
+    background-color: #FFF;
+}
+
+.user-testimonial {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.8rem;
+    color: #07043B;
+}
+
+.user-name {
+    font-weight:    700;
+    font-size: 0.9rem;
+    line-height: 1.2rem;
+    color: #07043B;
+}
+
+.user-occupation {
+    font-weight: 400;
+    font-size: 0.6rem;
+    line-height: 1.1rem;
+    color: #07043B;
+}
+
+.fylo-sign-up {
+    background-color: #575988;
+}
+
+.fylo-sign-up h2 {
+    font-weight: 700;
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+    color: #FFF;
+}
+
+.fylo-sign-up p {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+    color: #FFF;
+}
+
+.submit-bottom {
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.2rem;
+    color: #FFF;
+    background-color: #2F65F8;
+}
+
+.footer-container {
+    background-color: #07043B;
+}
+
+.phone-number, .email-address {
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    color: #FFF;
+}
+
+.fylo-useful-links-1 li a, .fylo-useful-links-2 li a {
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    color: #FFF;
+    text-decoration: none;
+}
